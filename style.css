@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+  background-color: gold;
+}
+
+.videop {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  margin-top: 27%;
+}
+
+.position1 {
+  float: left;
+  width: auto;
+  margin-top: 5%;
+}
+
+.position2 {
+  float: right;
+  margin-left: auto;
+  margin-top: 7%;
+}
