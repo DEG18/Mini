@@ -1,23 +1,20 @@
 .header {
   text-align: center;
+  font-size: 50px;
   background-color: gold;
+  line-height: 4em;
 }
 
-.videop {
-  position: fixed;
-  z-index: 1;
-  width: 100%;
-  margin-top: 27%;
-}
-
-.position1 {
+.colum1 {
   float: left;
-  width: auto;
-  margin-top: 5%;
+  width: 25%;
+  margin-right: 120px;
 }
 
-.position2 {
+.colum2 {
+  float: left;
+}
+
+.colum3 {
   float: right;
-  margin-left: auto;
-  margin-top: 7%;
 }
